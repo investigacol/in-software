@@ -1,0 +1,6 @@
+__ENV__
+__pycache__
+*.pyc
+*.exe
+*~
+*.sqlite3
